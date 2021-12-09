@@ -1,0 +1,14 @@
+# Caso for jogar no modo de duas equipes, deixe habilitado em true.
+# Caso for jogar no modo solo, não mexa em nada nessa config!
+equipes:
+   habilitado: false
+   equipe_A:
+      jogadores: []
+   equipe_B:
+      jogadores: []
+
+exibir_vida: true
+
+registros: {}
+
+coords: {}

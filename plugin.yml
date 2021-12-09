@@ -1,0 +1,33 @@
+name: TARDIS
+main: br.felipstein.tardis.Main
+
+author: Felipstein
+version: 0.0.1-SNAPSHOT
+
+commands:
+  tell:
+    aliases: []
+  r:
+    aliases: [r]
+  global:
+    aliases: [g]
+  team:
+    aliases: []
+  reloadconfig:
+    aliases: [rlconfig, reloadcfg, rlcfg]
+  changepassword:
+    aliases: [trocarsenha]
+  register:
+    aliases: [registrar, registro]
+  login:
+    aliases: [logar, log-in]
+  addcoord:
+    aliases: [ac]
+  listcoords:
+    aliases: [lc]
+  removecoord:
+    aliases: [rc]
+  sharecoord:
+    aliases: [compartilharcoord, compcoord, shc, cc]
+  infocoord:
+    aliases: [ic]
